@@ -1,2 +1,2 @@
-dummy toto to test github sync
+test if "git config pull.rebase false" fixed the vscode sync error
 upgrade to dotnet 6
